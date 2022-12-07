@@ -1,0 +1,15 @@
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+X:\EEE7\Task52\bin\Debug\net6.0\Task52.exe
+X:\EEE7\Task52\bin\Debug\net6.0\Task52.deps.json
+X:\EEE7\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+X:\EEE7\Task52\bin\Debug\net6.0\Task52.dll
+X:\EEE7\Task52\bin\Debug\net6.0\Task52.pdb
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.dll
+X:\EEE7\Task52\obj\Debug\net6.0\refint\Task52.dll
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.pdb
+X:\EEE7\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+X:\EEE7\Task52\obj\Debug\net6.0\ref\Task52.dll
